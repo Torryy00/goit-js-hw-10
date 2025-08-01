@@ -86,3 +86,10 @@ button[data-start]:not(:disabled):hover {
     letter-spacing: 0.1em;
 }
 /* SNACKBAR */
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    max-width: 400px;
+}
+
